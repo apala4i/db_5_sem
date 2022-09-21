@@ -1,0 +1,5 @@
+id, name, personal_discount
+0,default,0
+1,silver,5
+2,gold,10
+3,platinum,15

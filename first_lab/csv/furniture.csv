@@ -1,0 +1,1001 @@
+id,name,fk_furniture_type,fk_manufacturer,price,available_count,discount
+0,birdhouse_armchair,6,8,4751,79,8
+1,garb_bookshelf,25,82,42592,658,25
+2,cosset_carpet,19,69,11888,714,24
+3,leg_clock,24,57,45268,209,14
+4,blessing_chair,12,39,32988,191,1
+5,valentine_coffee-table,0,40,78380,548,5
+6,sound_cushion,7,92,38931,271,29
+7,drill_drinks cabinet,19,43,84111,325,21
+8,coalition_electric fire,13,45,91503,5,0
+9,zip_fireplace,20,31,48089,846,8
+10,daffodil_floor lamp,8,20,46971,417,24
+11,parcel_games console,7,82,88280,64,12
+12,contributor_hammock,0,51,86035,610,0
+13,bathroom_houseplants,30,35,3339,255,16
+14,accountability_lamp,14,10,50912,952,2
+15,inflammation_lampshade,17,2,96149,98,13
+16,announce_piano,32,33,75222,885,29
+17,authentication_picture,16,40,90336,869,8
+18,endothelium_radiator,13,45,66456,956,6
+19,adrenaline_record player,3,71,46141,872,9
+20,pantyhose_rocking chair,4,58,77733,385,12
+21,dulcimer_rug,33,35,26003,918,20
+22,admission_sofa,0,86,78164,842,9
+23,spiderling_tv-set,18,40,65344,189,9
+24,query_vase,10,91,62505,3,7
+25,political_wallpaper,14,48,88033,983,18
+26,reluctance_bookcase,35,41,57741,201,25
+27,politics_bureau,18,37,11878,882,5
+28,convection_computer,0,72,52309,924,27
+29,wrap_couch,3,27,97939,592,21
+30,metabolite_desk,33,72,62773,85,2
+31,authenticity_office chair,15,64,70039,64,22
+32,leveret_safe,33,11,49651,409,16
+33,deserted_shelving,18,66,31720,696,29
+34,sabre_speakers,17,99,87531,843,27
+35,applewood_table lamp,28,23,15715,659,2
+36,beyond_armchair,9,1,1971,360,11
+37,rationale_bookshelf,30,23,98957,966,6
+38,consensus_carpet,34,58,92901,336,14
+39,priest_clock,18,84,91075,725,25
+40,pen_chair,4,87,57572,207,7
+41,sled_coffee-table,19,95,13347,616,22
+42,psychiatrist_cushion,34,18,64248,766,29
+43,brain_drinks cabinet,30,96,78097,29,24
+44,cookie_electric fire,16,7,25931,27,8
+45,chaise_fireplace,4,20,21123,979,14
+46,wrestler_floor lamp,31,28,74200,930,16
+47,ornament_games console,21,9,36998,801,7
+48,butane_hammock,31,59,78609,361,25
+49,lieu_houseplants,24,46,5771,680,8
+50,accomplishment_lamp,5,21,21525,948,17
+51,min_lampshade,18,98,13901,92,0
+52,overweight_piano,12,47,28095,371,3
+53,parrot_picture,23,97,89587,404,19
+54,systemize_radiator,10,4,49297,143,10
+55,succinct_record player,13,97,53457,390,10
+56,whisper_rocking chair,27,61,10363,0,25
+57,instructor_rug,30,6,20654,610,21
+58,red_sofa,19,15,52851,357,30
+59,tale_tv-set,31,0,10380,296,8
+60,doubtful_vase,8,70,54448,833,0
+61,sponsor_wallpaper,31,46,34800,357,8
+62,peace_bookcase,33,73,85178,100,15
+63,hardcover_bureau,32,17,89229,678,11
+64,race_computer,6,2,78039,969,12
+65,aluminum_couch,11,44,36071,952,22
+66,absurd_desk,31,10,5847,297,21
+67,algorithm_office chair,30,24,97933,527,2
+68,disk_safe,22,25,68742,448,14
+69,university_shelving,5,20,24625,159,29
+70,poultry_speakers,7,42,40604,411,9
+71,stadium_table lamp,4,39,23553,445,9
+72,preserves_armchair,28,12,97858,843,26
+73,wifi_bookshelf,25,33,61388,388,15
+74,simplification_carpet,9,14,41675,387,4
+75,clean_clock,27,25,2083,988,20
+76,gesture_chair,31,64,21381,92,7
+77,gamma-ray_coffee-table,3,82,78084,955,4
+78,participate_cushion,25,8,60172,901,25
+79,ellipse_drinks cabinet,16,11,21964,946,7
+80,spirituality_electric fire,25,94,48200,155,30
+81,measurement_fireplace,25,66,49591,869,17
+82,disease_floor lamp,30,64,67684,200,20
+83,cougar_games console,9,70,48204,986,9
+84,praise_hammock,18,37,20525,672,23
+85,know_houseplants,3,57,92851,719,19
+86,venison_lamp,16,69,42425,278,17
+87,parser_lampshade,8,21,5060,146,0
+88,trashy_piano,5,17,22787,731,25
+89,jasmine_picture,21,80,85378,566,14
+90,gland_radiator,16,29,75987,222,4
+91,earth_record player,9,54,67104,572,13
+92,nuke_rocking chair,19,72,44953,105,18
+93,grade_rug,30,7,88819,460,15
+94,campaign_sofa,3,89,35246,815,7
+95,pronoun_tv-set,19,46,52277,730,12
+96,uppity_vase,20,52,10720,129,21
+97,misspell_wallpaper,11,76,53658,331,30
+98,unify_bookcase,14,58,32893,182,11
+99,ectoderm_bureau,12,89,77826,747,15
+100,utensil_computer,11,5,31202,704,3
+101,dynamo_couch,4,59,83398,99,15
+102,dune_desk,28,4,93432,469,27
+103,slide_office chair,15,58,89504,228,10
+104,trinket_safe,9,65,80570,192,21
+105,councilperson_shelving,11,0,65473,781,4
+106,adaptation_speakers,35,39,85227,954,4
+107,late_table lamp,18,80,36822,618,15
+108,pimp_armchair,5,81,13115,43,2
+109,purse_bookshelf,32,8,83069,729,11
+110,unemployment_carpet,9,53,74653,488,13
+111,exotic_clock,3,23,34907,381,30
+112,administrator_chair,17,30,50477,276,30
+113,basics_coffee-table,7,18,81846,42,26
+114,greens_cushion,8,52,72664,193,26
+115,name_drinks cabinet,12,69,55855,154,8
+116,initialise_electric fire,21,45,79114,119,24
+117,mansard_fireplace,14,72,55134,464,12
+118,resonant_floor lamp,26,25,76983,110,12
+119,ton_games console,32,74,98298,990,26
+120,accord_hammock,27,70,57591,383,10
+121,teen_houseplants,19,49,39311,191,27
+122,harvest_lamp,1,76,55336,324,25
+123,folk_lampshade,22,82,22825,781,21
+124,aberrant_piano,6,34,68869,498,21
+125,return_picture,22,11,8310,385,4
+126,sprinter_radiator,12,33,25252,239,2
+127,password_record player,31,27,95840,306,25
+128,hoe_rocking chair,7,24,92452,801,8
+129,spandex_rug,15,66,20845,245,2
+130,anguish_sofa,25,22,30374,26,0
+131,wrist_tv-set,31,24,26701,69,16
+132,mean_vase,22,55,88291,924,13
+133,dispatch_wallpaper,3,62,29622,609,25
+134,modern_bookcase,25,41,35706,174,21
+135,selective_bureau,17,48,18431,19,23
+136,detailed_computer,26,6,93474,627,20
+137,retire_couch,16,65,20593,309,1
+138,noxious_desk,6,47,40791,293,25
+139,finer_office chair,30,68,2339,454,23
+140,towering_safe,15,50,9713,407,22
+141,bra_shelving,0,50,13613,583,9
+142,giraffe_speakers,25,42,45381,418,13
+143,beam_table lamp,13,1,98677,985,28
+144,be_armchair,5,29,69837,790,18
+145,giggle_bookshelf,26,74,7857,610,13
+146,rotation_carpet,12,19,57944,800,0
+147,reporter_clock,18,5,2688,234,5
+148,axis_chair,20,49,6395,734,8
+149,venti_coffee-table,16,47,86374,29,30
+150,latency_cushion,27,55,53276,128,19
+151,adhesive_drinks cabinet,27,12,57669,96,7
+152,woodland_electric fire,14,12,94578,360,2
+153,calorie_fireplace,17,43,83856,778,30
+154,frame_floor lamp,7,25,56118,652,15
+155,price_games console,0,36,51020,929,25
+156,reading_hammock,30,95,20224,81,21
+157,sneeze_houseplants,12,58,51333,754,6
+158,moan_lamp,13,68,9052,209,16
+159,sandbar_lampshade,23,87,41128,947,25
+160,wall_piano,9,95,82693,704,28
+161,detective_picture,29,95,222,613,9
+162,sting_radiator,19,72,33222,171,29
+163,angiosperm_record player,13,35,78016,833,4
+164,meridian_rocking chair,25,10,64542,879,8
+165,driver_rug,19,19,47021,859,12
+166,tinkle_sofa,1,27,57762,738,27
+167,belong_tv-set,8,95,5548,415,13
+168,scenario_vase,15,30,77115,661,13
+169,deal_wallpaper,29,53,50988,433,7
+170,pollutant_bookcase,9,33,40866,719,24
+171,bait_bureau,16,24,13151,872,5
+172,flap_computer,15,60,65248,309,19
+173,tights_couch,14,82,18100,856,8
+174,steel_desk,19,50,79517,804,9
+175,alb_office chair,35,14,30752,57,17
+176,underweight_safe,32,33,41213,20,3
+177,understood_shelving,5,5,72219,551,24
+178,coincidence_speakers,9,43,25050,737,24
+179,soggy_table lamp,9,30,38546,967,9
+180,rhetorical_armchair,23,29,96106,147,5
+181,sucker_bookshelf,13,1,43702,771,26
+182,theater_carpet,25,13,6494,310,7
+183,stimulus_clock,17,41,13029,509,18
+184,shivering_chair,15,10,96586,682,11
+185,craftsman_coffee-table,12,33,48375,341,21
+186,compose_cushion,1,23,29974,877,27
+187,analog_drinks cabinet,3,17,52066,140,27
+188,thermals_electric fire,26,34,71387,826,12
+189,achieve_fireplace,7,14,37835,964,25
+190,gravity_floor lamp,20,19,86844,848,3
+191,herbs_games console,3,16,21209,568,14
+192,environment_hammock,2,94,82898,621,10
+193,timer_houseplants,25,15,4573,501,28
+194,realize_lamp,15,71,69349,490,26
+195,bonfire_lampshade,28,18,28314,383,13
+196,creativity_piano,34,68,73604,863,29
+197,developing_picture,20,66,66785,390,12
+198,examiner_radiator,32,17,71666,200,25
+199,zampone_record player,23,79,28675,475,6
+200,platter_rocking chair,16,41,2211,210,10
+201,harp_rug,22,35,2994,593,24
+202,planet_sofa,31,37,64791,529,6
+203,intend_tv-set,33,76,15218,392,29
+204,aggradation_vase,28,45,15656,801,22
+205,quarrelsome_wallpaper,7,77,76789,981,12
+206,meatball_bookcase,23,86,13655,307,23
+207,arrogant_bureau,17,66,56010,254,17
+208,serval_computer,4,48,45563,284,27
+209,setting_couch,25,16,2987,219,1
+210,angstrom_desk,4,81,40455,912,0
+211,incandescence_office chair,22,92,30426,90,9
+212,fame_safe,16,19,22321,505,12
+213,progenitor_shelving,8,44,93779,713,14
+214,corsage_speakers,4,90,19704,321,8
+215,terminology_table lamp,18,11,21840,158,28
+216,tight_armchair,12,74,47971,855,10
+217,cockroach_bookshelf,14,25,29763,39,11
+218,licensing_carpet,19,6,30768,786,24
+219,overview_clock,18,26,94887,783,8
+220,tortellini_chair,22,10,9791,457,30
+221,polarisation_coffee-table,29,51,27768,416,9
+222,indigence_cushion,26,14,34288,80,24
+223,spread_drinks cabinet,26,43,23312,724,9
+224,build_electric fire,24,84,33347,800,8
+225,saxophone_fireplace,17,61,36071,450,7
+226,phenotype_floor lamp,24,99,4607,926,28
+227,abnormal_games console,6,6,64209,854,23
+228,blackfish_hammock,19,20,42719,420,6
+229,poster_houseplants,5,63,26521,369,24
+230,photoreceptor_lamp,13,15,61926,881,2
+231,week_lampshade,25,40,90847,826,2
+232,speculation_piano,17,30,55637,175,3
+233,supper_picture,19,4,35595,628,0
+234,hollow_radiator,15,86,24911,523,1
+235,aloof_record player,23,63,41310,117,15
+236,kit_rocking chair,6,38,55332,676,24
+237,sweater_rug,10,93,59127,99,14
+238,begonia_sofa,11,3,66672,117,27
+239,necklace_tv-set,9,10,16655,149,24
+240,shot_vase,29,31,64625,290,13
+241,facelift_wallpaper,32,19,76881,291,20
+242,clavicle_bookcase,29,0,70558,898,10
+243,hurt_bureau,13,28,38605,958,6
+244,oak_computer,13,20,53337,185,20
+245,challenge_couch,2,40,87676,117,30
+246,gigantic_desk,6,28,47318,588,9
+247,mile_office chair,11,7,28819,300,27
+248,weight_safe,3,32,28816,553,25
+249,operating_shelving,14,88,63782,136,8
+250,woodwind_speakers,29,86,58575,319,22
+251,allocation_table lamp,3,10,41767,710,19
+252,coral_armchair,23,13,95702,855,1
+253,sloth_bookshelf,27,27,71505,495,10
+254,mother-in-law_carpet,3,36,65880,457,21
+255,inventor_clock,23,54,15530,233,6
+256,mustard_chair,18,8,61073,168,1
+257,functionality_coffee-table,7,72,68625,986,9
+258,operate_cushion,35,60,60266,236,16
+259,shin_drinks cabinet,27,10,67575,883,19
+260,lout_electric fire,16,87,8992,39,11
+261,unblinking_fireplace,28,52,36948,887,28
+262,escalator_floor lamp,28,72,25869,326,8
+263,cello_games console,4,26,68465,968,16
+264,rifle_hammock,12,70,63203,415,6
+265,coverage_houseplants,8,96,65102,662,4
+266,bin_lamp,35,88,77794,530,27
+267,peel_lampshade,17,98,96562,507,29
+268,confuse_piano,8,50,60425,515,18
+269,membership_picture,4,26,70639,968,28
+270,exhibit_radiator,24,94,74837,964,21
+271,rebellion_record player,26,19,36229,21,18
+272,wrecker_rocking chair,11,64,62856,225,21
+273,spiffy_rug,5,4,87028,787,3
+274,decision_sofa,15,9,93695,384,13
+275,mighty_tv-set,33,58,52120,91,15
+276,pneumonia_vase,13,72,19639,123,29
+277,erect_wallpaper,6,66,19052,737,30
+278,tablecloth_bookcase,15,53,30745,71,9
+279,instinct_bureau,28,73,96850,298,23
+280,sour_computer,6,41,55377,610,26
+281,conserve_couch,9,48,68751,596,27
+282,illustration_desk,10,62,12227,447,2
+283,move_office chair,14,52,94705,397,30
+284,breathe_safe,24,47,69275,333,5
+285,spear_shelving,8,54,5766,861,30
+286,expert_speakers,22,5,70144,155,11
+287,plane_table lamp,27,64,32886,957,1
+288,screw-up_armchair,4,57,34720,554,28
+289,procurement_bookshelf,0,2,5907,271,13
+290,lucky_carpet,4,23,64891,896,6
+291,anteater_clock,0,82,20175,342,29
+292,airfield_chair,35,13,71903,964,3
+293,barber_coffee-table,8,10,74823,859,11
+294,seaside_cushion,13,41,96151,871,17
+295,system_drinks cabinet,22,17,48570,408,12
+296,take_electric fire,16,51,33857,229,25
+297,fishbone_fireplace,14,23,42250,620,24
+298,blade_floor lamp,13,84,3748,307,13
+299,rich_games console,28,68,78668,452,27
+300,chino_hammock,28,36,90624,102,22
+301,donkey_houseplants,6,99,29160,327,25
+302,hull_lamp,8,72,43950,750,4
+303,destroy_lampshade,23,76,4477,534,23
+304,causeway_piano,3,39,38141,109,17
+305,room_picture,16,63,74077,830,0
+306,sanctuary_radiator,20,10,69921,296,8
+307,youngster_record player,28,27,58201,659,19
+308,nutrient_rocking chair,15,48,85824,387,21
+309,procedure_rug,7,43,45788,913,28
+310,crowd_sofa,30,72,24395,263,13
+311,frown_tv-set,1,31,25419,87,20
+312,wobble_vase,11,91,12751,113,22
+313,relieved_wallpaper,17,53,20914,93,10
+314,catcher_bookcase,1,43,54744,455,6
+315,goodness_bureau,12,74,8889,328,23
+316,pun_computer,8,84,12310,141,14
+317,presidency_couch,34,83,56408,748,18
+318,texture_desk,14,6,70741,956,24
+319,rugby_office chair,18,83,84919,822,24
+320,improve_safe,14,47,46969,228,9
+321,atmosphere_shelving,5,49,28172,820,4
+322,harmonize_speakers,8,89,63733,6,24
+323,ethnicity_table lamp,35,33,89631,528,19
+324,suggestion_armchair,11,28,65099,674,20
+325,snuggle_bookshelf,3,69,77526,502,28
+326,title_carpet,14,48,36987,277,21
+327,sandal_clock,13,41,6300,336,27
+328,initiative_chair,30,81,9125,127,3
+329,harass_coffee-table,12,41,81066,647,19
+330,verb_cushion,27,60,99477,809,22
+331,replacement_drinks cabinet,34,29,42198,187,17
+332,officiate_electric fire,22,63,41394,745,25
+333,wide-eyed_fireplace,5,91,12766,353,6
+334,rose_floor lamp,35,96,692,372,6
+335,deadpan_games console,7,18,99839,905,19
+336,reconcile_hammock,26,2,40429,799,4
+337,mariachi_houseplants,3,30,3472,211,22
+338,rice_lamp,32,59,11517,714,6
+339,shocking_lampshade,10,32,44123,267,16
+340,squirrel_piano,34,83,21661,488,8
+341,boulder_picture,30,67,76289,612,21
+342,mandarin_radiator,6,49,25146,218,10
+343,hedgehog_record player,12,5,32525,818,28
+344,harvester_rocking chair,2,24,77125,3,9
+345,ballpark_rug,32,1,75069,847,8
+346,hotdog_sofa,9,40,25762,551,0
+347,energetic_tv-set,9,64,2244,116,20
+348,blueberry_vase,25,54,15356,201,14
+349,lunge_wallpaper,12,42,59507,93,29
+350,lottery_bookcase,2,83,49599,272,6
+351,jogging_bureau,14,30,25860,284,9
+352,temptation_computer,5,74,49283,684,13
+353,maniac_couch,15,7,36693,363,0
+354,horrible_desk,31,66,85687,270,25
+355,spell_office chair,18,37,34688,934,28
+356,strengthen_safe,33,27,13611,880,12
+357,whack_shelving,8,24,8952,907,19
+358,inspection_speakers,14,44,19155,100,15
+359,curler_table lamp,13,34,91843,264,18
+360,scream_armchair,12,81,25080,708,14
+361,freight_bookshelf,18,53,98230,99,29
+362,scrutiny_carpet,24,57,20675,962,19
+363,registration_clock,14,71,62845,503,8
+364,chowder_chair,27,56,23138,979,15
+365,heart_coffee-table,1,21,24422,314,12
+366,spice_cushion,4,68,4222,392,1
+367,slink_drinks cabinet,26,56,28147,174,13
+368,hash_electric fire,31,26,60170,242,17
+369,nestling_fireplace,7,8,42599,512,8
+370,automation_floor lamp,34,17,18398,382,3
+371,teletype_games console,18,76,64512,351,21
+372,inject_hammock,4,71,78056,263,27
+373,dog_houseplants,34,45,17153,964,14
+374,moldy_lamp,34,26,65633,612,13
+375,daily_lampshade,11,46,53898,613,11
+376,consideration_piano,12,33,95366,151,24
+377,drake_picture,7,12,65551,694,23
+378,purr_radiator,29,20,38241,28,15
+379,hit_record player,12,44,13059,768,16
+380,digestive_rocking chair,25,10,1702,685,1
+381,visor_rug,15,46,86307,35,1
+382,bind_sofa,16,69,28876,155,13
+383,machinery_tv-set,32,15,87042,947,14
+384,eggplant_vase,33,22,87929,524,3
+385,fishmonger_wallpaper,4,66,76506,729,22
+386,twist_bookcase,4,0,88936,360,22
+387,cowardly_bureau,14,9,20584,205,2
+388,tangerine_computer,26,81,19734,882,22
+389,echidna_couch,3,30,11371,313,30
+390,brass_desk,30,40,58224,544,6
+391,cell_office chair,28,14,7261,391,26
+392,grouchy_safe,19,49,16240,626,19
+393,boundless_shelving,27,48,43405,273,28
+394,repulsive_speakers,10,0,13556,874,26
+395,discipline_table lamp,7,96,55765,980,21
+396,incandescent_armchair,3,75,55728,981,18
+397,brunch_bookshelf,3,53,65671,362,3
+398,conservative_carpet,1,51,49840,784,6
+399,instrumentation_clock,13,79,64469,371,8
+400,candy_chair,33,41,80785,9,28
+401,container_coffee-table,17,23,31249,246,7
+402,eraser_cushion,15,27,30801,614,15
+403,anyone_drinks cabinet,19,31,77901,479,18
+404,collectivization_electric fire,13,57,11866,170,9
+405,suede_fireplace,24,81,34414,531,27
+406,auditorium_floor lamp,26,91,71402,321,8
+407,moon_games console,24,2,43134,859,30
+408,jack_hammock,31,58,68769,712,26
+409,cauliflower_houseplants,28,92,84020,462,17
+410,mow_lamp,0,1,87225,638,3
+411,tomatillo_lampshade,21,31,57978,36,13
+412,barracks_piano,3,59,40465,964,0
+413,disability_picture,24,26,88428,373,9
+414,platelet_radiator,14,5,57912,719,7
+415,motion_record player,24,7,2425,124,28
+416,cantaloupe_rocking chair,20,15,11381,329,17
+417,sample_rug,11,53,57174,335,17
+418,obedient_sofa,4,78,10856,952,2
+419,bee_tv-set,34,50,1739,925,2
+420,moai_vase,7,3,27834,758,8
+421,pursuit_wallpaper,10,2,90877,194,20
+422,babe_bookcase,22,21,71000,572,16
+423,jade_bureau,26,44,71672,190,11
+424,kimono_computer,4,13,97384,528,18
+425,ecumenist_couch,34,91,38621,206,23
+426,floozie_desk,33,22,24864,691,12
+427,critique_office chair,7,60,68799,72,30
+428,kamikaze_safe,27,46,22716,123,10
+429,sparrow_shelving,18,36,22534,509,17
+430,godmother_speakers,29,83,90061,547,30
+431,nibble_table lamp,35,52,74691,1000,29
+432,pineapple_armchair,29,60,2355,81,16
+433,reaction_bookshelf,1,16,25975,831,4
+434,oriented_carpet,20,29,32842,674,1
+435,veranda_clock,25,0,21874,704,30
+436,sulfur_chair,16,34,39863,20,15
+437,contagion_coffee-table,35,89,79342,326,3
+438,reverse_cushion,25,58,95676,397,28
+439,veteran_drinks cabinet,34,71,48196,841,2
+440,inn_electric fire,23,1,30901,84,23
+441,swanling_fireplace,24,73,68569,844,16
+442,tentacle_floor lamp,34,82,98495,82,9
+443,favorite_games console,9,63,70332,650,17
+444,fiberglass_hammock,23,25,89250,495,23
+445,undress_houseplants,14,18,22603,883,26
+446,revise_lamp,20,22,98955,709,13
+447,gamebird_lampshade,15,11,10469,392,4
+448,heavenly_piano,21,60,39679,760,30
+449,plunger_picture,29,50,80084,51,11
+450,excess_radiator,34,96,31620,53,18
+451,misrepresentation_record player,6,7,48008,562,11
+452,type_rocking chair,25,30,12156,576,15
+453,union_rug,8,86,32195,828,11
+454,yoke_sofa,15,31,56585,87,14
+455,artichoke_tv-set,33,31,5693,338,7
+456,complaint_vase,35,45,10415,901,28
+457,underclothes_wallpaper,8,27,58424,790,19
+458,sandpaper_bookcase,15,26,204,216,14
+459,irrigation_bureau,11,98,89578,669,1
+460,sweep_computer,16,18,74122,679,5
+461,ashtray_couch,19,88,37327,426,16
+462,cleaner_desk,17,65,20232,911,24
+463,assignment_office chair,9,10,55966,982,16
+464,chafe_safe,28,70,20368,87,24
+465,subsidence_shelving,21,92,83483,103,27
+466,colonisation_speakers,0,24,82670,373,1
+467,refuge_table lamp,11,66,89742,840,0
+468,nougat_armchair,3,19,64402,873,4
+469,book_bookshelf,11,12,33941,878,16
+470,tour_carpet,4,72,28528,585,25
+471,hip_clock,33,49,93920,705,29
+472,suffocation_chair,3,46,11712,237,27
+473,deodorant_coffee-table,32,60,45629,858,28
+474,reflect_cushion,4,92,2846,149,17
+475,melted_drinks cabinet,23,18,55988,983,1
+476,earsplitting_electric fire,30,55,22023,514,24
+477,waterskiing_fireplace,6,27,59535,809,2
+478,residue_floor lamp,26,0,13513,837,12
+479,vernacular_games console,20,98,15457,732,30
+480,separation_hammock,29,84,29358,873,18
+481,breath_houseplants,1,74,39295,603,25
+482,statistics_lamp,28,33,53597,625,13
+483,patch_lampshade,7,65,48424,730,6
+484,pinot_piano,27,2,9889,573,20
+485,ocelot_picture,13,14,50516,10,11
+486,listen_radiator,32,71,77066,266,10
+487,poetry_record player,35,48,85133,755,25
+488,sexuality_rocking chair,6,88,4319,785,20
+489,geology_rug,24,96,94965,516,19
+490,eating_sofa,24,89,12300,137,3
+491,stumbling_tv-set,12,32,8586,918,2
+492,job_vase,1,70,78922,51,11
+493,volunteering_wallpaper,35,60,82050,333,0
+494,founder_bookcase,30,31,51772,299,5
+495,highland_bureau,13,94,10936,813,11
+496,math_computer,21,95,94741,562,9
+497,stab_couch,35,37,97335,471,24
+498,laryngitis_desk,0,37,77866,474,3
+499,steal_office chair,15,38,9486,776,14
+500,choosing_safe,3,70,67020,453,8
+501,farmer_shelving,3,7,16269,382,17
+502,ribbon_speakers,29,40,22077,298,14
+503,wingman_table lamp,17,41,63982,299,30
+504,vessel_armchair,2,22,85028,224,2
+505,bran_bookshelf,7,85,40915,142,26
+506,nucleotide_carpet,5,54,25002,882,21
+507,fridge_clock,22,16,60851,691,10
+508,precision_chair,23,36,65990,231,26
+509,casino_coffee-table,34,17,42439,760,7
+510,transmission_cushion,7,34,67152,348,2
+511,kitten_drinks cabinet,16,78,99087,921,4
+512,eat_electric fire,8,35,52070,538,10
+513,chief_fireplace,2,27,21571,113,17
+514,sticky_floor lamp,13,44,39648,999,16
+515,symptom_games console,26,68,80200,190,13
+516,analgesia_hammock,30,76,5060,190,8
+517,modeling_houseplants,0,65,36097,611,18
+518,torpid_lamp,32,64,68442,249,20
+519,satire_lampshade,17,45,32295,814,20
+520,hospitalization_piano,7,45,91471,702,19
+521,tea_picture,31,33,6675,136,22
+522,assemble_radiator,19,86,16907,859,19
+523,doctrine_record player,27,68,79775,709,0
+524,decay_rocking chair,21,7,74898,325,29
+525,pathway_rug,0,5,5559,545,20
+526,viewer_sofa,6,30,13313,471,18
+527,proposition_tv-set,19,5,19353,18,3
+528,tension_vase,4,74,75140,726,17
+529,chard_wallpaper,22,59,38878,885,22
+530,meadow_bookcase,31,18,9977,199,25
+531,feigned_bureau,14,11,18595,791,27
+532,conductor_computer,2,81,15183,546,21
+533,dramatic_couch,11,4,66123,638,18
+534,distribution_desk,19,57,94068,497,13
+535,blanket_office chair,11,18,60045,990,29
+536,hosiery_safe,17,57,96359,465,11
+537,scorn_shelving,6,83,43295,477,23
+538,ballet_speakers,15,64,40989,859,0
+539,appropriation_table lamp,15,70,21820,335,7
+540,score_armchair,19,95,31663,645,21
+541,fang_bookshelf,12,65,87594,584,1
+542,venue_carpet,21,51,38222,479,1
+543,deficit_clock,10,63,47319,554,21
+544,carotene_chair,24,65,98714,228,11
+545,stair_coffee-table,11,53,12468,866,28
+546,clergyman_cushion,11,9,74758,986,5
+547,chronograph_drinks cabinet,24,72,26395,308,3
+548,engagement_electric fire,33,88,46959,901,17
+549,flung_fireplace,33,90,20759,161,26
+550,district_floor lamp,15,27,52123,22,28
+551,intestine_games console,34,9,78149,657,9
+552,define_hammock,3,44,47072,998,30
+553,rhythm_houseplants,0,52,705,730,25
+554,shark_lamp,10,29,40890,472,11
+555,meteor_lampshade,29,86,56280,123,21
+556,numeric_piano,12,58,56205,189,22
+557,swimming_picture,16,73,58124,840,3
+558,confused_radiator,2,15,68903,922,7
+559,rip_record player,19,34,714,453,4
+560,grey_rocking chair,16,38,65590,261,13
+561,ant_rug,12,7,37334,565,15
+562,context_sofa,31,75,61805,754,16
+563,upgrade_tv-set,23,12,92069,94,18
+564,hyena_vase,1,32,4471,414,30
+565,league_wallpaper,30,27,53417,1,17
+566,detect_bookcase,25,50,42604,276,17
+567,bumpy_bureau,26,59,24899,591,27
+568,substantial_computer,1,87,41827,365,24
+569,card_couch,33,30,69145,227,24
+570,waveform_desk,25,40,21426,831,20
+571,wise_office chair,11,26,79114,88,29
+572,appetite_safe,16,94,35012,176,10
+573,oldie_shelving,33,4,55523,651,22
+574,surfboard_speakers,5,75,91193,972,22
+575,assess_table lamp,0,45,47258,824,27
+576,rape_armchair,22,67,84929,482,0
+577,peasant_bookshelf,26,16,17596,700,23
+578,intensity_carpet,28,52,18914,946,26
+579,odometer_clock,0,17,29848,631,1
+580,gain_chair,32,38,26094,492,10
+581,damaging_coffee-table,5,99,70187,758,20
+582,codepage_cushion,31,25,56938,973,25
+583,film_drinks cabinet,22,85,29912,624,18
+584,introduce_electric fire,9,75,7304,956,6
+585,eponym_fireplace,6,77,29098,721,16
+586,foregoing_floor lamp,32,80,34739,110,28
+587,deposit_games console,9,71,13036,215,19
+588,departure_hammock,28,44,81915,942,1
+589,juggernaut_houseplants,12,48,97087,873,22
+590,questionnaire_lamp,9,59,4026,496,21
+591,crayon_lampshade,2,76,14695,953,20
+592,merchant_piano,2,14,70771,739,29
+593,rocker_picture,11,29,70685,209,8
+594,singing_radiator,27,53,70346,466,28
+595,aromatic_record player,16,64,54016,706,7
+596,rocket_rocking chair,12,73,74331,703,3
+597,chick_rug,26,21,83205,825,12
+598,pilaf_sofa,24,89,79441,748,17
+599,infarction_tv-set,30,89,62896,610,0
+600,cricket_vase,20,0,62415,981,24
+601,firewall_wallpaper,25,34,60206,694,15
+602,shave_bookcase,14,20,25019,260,2
+603,underneath_bureau,8,23,33429,543,21
+604,barrel_computer,24,4,21479,622,5
+605,mRNA_couch,19,13,63110,978,12
+606,diligent_desk,17,35,47785,142,16
+607,jagged_office chair,27,49,82304,465,13
+608,debt_safe,6,22,71822,461,25
+609,materialistic_shelving,28,86,24019,925,14
+610,suppression_speakers,10,67,52537,165,21
+611,drain_table lamp,9,37,79340,770,12
+612,inspector_armchair,19,18,37054,191,1
+613,industrious_bookshelf,28,10,78847,937,17
+614,failure_carpet,26,31,49249,534,9
+615,buy_clock,35,98,93375,6,10
+616,bleach_chair,11,53,78664,341,24
+617,flipped-out_coffee-table,3,0,5521,895,27
+618,variety_cushion,19,44,32745,983,0
+619,inspiration_drinks cabinet,6,69,56717,229,1
+620,pigeon_electric fire,0,12,74114,293,29
+621,plea_fireplace,21,60,96478,370,28
+622,briefing_floor lamp,32,88,90538,221,17
+623,oxygen_games console,7,70,88186,276,10
+624,jazzy_hammock,21,86,83021,839,15
+625,great-grandmother_houseplants,25,73,84655,588,25
+626,slice_lamp,27,89,93514,110,17
+627,academy_lampshade,6,35,87033,445,16
+628,compress_piano,8,33,67316,130,13
+629,cot_picture,1,54,40291,958,23
+630,life_radiator,15,48,88494,334,16
+631,chew_record player,17,1,1071,530,8
+632,stress_rocking chair,9,94,48509,253,10
+633,dare_rug,35,47,34249,280,8
+634,term_sofa,2,63,56861,922,10
+635,lion_tv-set,12,41,14895,0,13
+636,sport_vase,4,54,8854,567,25
+637,communist_wallpaper,5,53,96295,14,7
+638,bend_bookcase,20,6,67888,314,28
+639,economy_bureau,12,10,57731,830,20
+640,selection_computer,17,72,60343,296,13
+641,referendum_couch,15,76,8958,969,5
+642,adverb_desk,30,1,64622,887,26
+643,rabbi_office chair,3,76,7629,143,7
+644,outstanding_safe,0,58,48699,290,16
+645,dilapidation_shelving,29,18,95081,549,11
+646,scallops_speakers,24,47,60844,814,10
+647,tonic_table lamp,23,64,1564,235,23
+648,practitioner_armchair,29,73,40517,276,10
+649,summit_bookshelf,25,55,26491,227,6
+650,wastebasket_carpet,12,3,16844,508,5
+651,variant_clock,8,64,81822,133,6
+652,continuity_chair,25,57,67166,899,9
+653,tusk_coffee-table,29,30,98145,989,16
+654,muscatel_cushion,9,28,1162,419,6
+655,rain_drinks cabinet,8,3,10093,485,29
+656,conformation_electric fire,15,86,40879,160,13
+657,batting_fireplace,25,35,80327,200,25
+658,sister-in-law_floor lamp,27,68,73732,918,4
+659,midnight_games console,5,3,90530,26,20
+660,acknowledgment_hammock,21,61,76361,724,28
+661,happening_houseplants,25,80,12099,759,8
+662,taxicab_lamp,34,97,39768,781,22
+663,equity_lampshade,4,95,55739,651,27
+664,minimum_piano,22,23,70113,574,28
+665,pumped_picture,18,43,1175,113,0
+666,spiritual_radiator,32,11,55345,77,26
+667,diaphragm_record player,13,26,5019,999,14
+668,quotation_rocking chair,12,88,43201,770,11
+669,gumshoe_rug,9,57,20705,608,0
+670,dredger_sofa,25,86,66311,825,18
+671,park_tv-set,9,21,54291,914,21
+672,cheek_vase,9,34,17825,516,17
+673,do_wallpaper,5,87,24222,965,25
+674,beneficiary_bookcase,28,64,46462,655,6
+675,horse_bureau,29,2,98720,296,16
+676,clockwork_computer,1,11,70518,965,12
+677,unbiased_couch,6,95,49015,754,30
+678,criminal_desk,34,82,63508,141,8
+679,wont_office chair,0,6,52836,305,26
+680,strength_safe,25,53,88625,835,20
+681,order_shelving,33,47,90087,190,26
+682,underpass_speakers,30,94,3758,215,26
+683,pipe_table lamp,16,10,57453,788,8
+684,crime_armchair,17,33,53252,590,16
+685,induce_bookshelf,9,28,33560,697,26
+686,platypus_carpet,31,95,53880,46,28
+687,gamy_clock,19,66,85451,228,21
+688,tolerance_chair,20,67,78742,152,29
+689,priority_coffee-table,27,9,85108,215,3
+690,secrecy_cushion,30,89,34010,863,26
+691,symmetry_drinks cabinet,12,40,18875,808,12
+692,loop_electric fire,0,27,17557,707,27
+693,cyclone_fireplace,24,18,61990,651,2
+694,goddess_floor lamp,22,90,62775,378,21
+695,boost_games console,20,55,4165,960,9
+696,snowplow_hammock,20,30,87514,593,5
+697,majority_houseplants,26,25,34738,491,9
+698,arthur_lamp,4,24,9215,103,27
+699,work_lampshade,14,12,53903,357,3
+700,sunday_piano,3,40,59839,338,6
+701,mission_picture,8,80,15256,676,17
+702,populist_radiator,20,22,68522,674,7
+703,weedkiller_record player,28,74,59733,761,2
+704,formation_rocking chair,13,83,31767,32,0
+705,doorpost_rug,12,90,67963,902,9
+706,tricky_sofa,1,10,12233,397,13
+707,opium_tv-set,31,14,28697,166,7
+708,road_vase,14,81,83055,126,6
+709,absorbed_wallpaper,7,10,17632,575,20
+710,participant_bookcase,14,0,64761,351,21
+711,ship_bureau,22,57,80578,805,13
+712,atelier_computer,28,28,87036,556,27
+713,fight_couch,20,25,80265,492,4
+714,stability_desk,19,0,18676,469,5
+715,smock_office chair,0,11,67173,281,19
+716,hammer_safe,34,29,42625,528,30
+717,vigorous_shelving,16,33,61770,357,12
+718,image_speakers,8,69,61740,708,1
+719,generosity_table lamp,32,70,70845,248,7
+720,follow_armchair,25,86,44600,738,7
+721,chasuble_bookshelf,35,24,5066,641,21
+722,redesign_carpet,9,93,48876,25,4
+723,bed_clock,29,35,56402,40,11
+724,pumpkinseed_chair,15,22,89862,584,1
+725,furnace_coffee-table,10,99,53964,496,16
+726,petitioner_cushion,28,57,41884,710,3
+727,pet_drinks cabinet,2,5,81628,320,18
+728,broker_electric fire,30,53,88435,917,26
+729,sadness_fireplace,21,40,67805,645,30
+730,lace_floor lamp,6,40,68073,432,0
+731,action_games console,22,50,94879,240,11
+732,direful_hammock,14,34,49137,818,20
+733,unsuitable_houseplants,29,71,66074,464,7
+734,transparency_lamp,4,78,12338,116,8
+735,glen_lampshade,24,24,1271,260,4
+736,resort_piano,20,99,49913,412,5
+737,godparent_picture,1,3,38298,103,7
+738,rabid_radiator,13,15,58659,494,24
+739,undergo_record player,27,90,56296,375,5
+740,nice_rocking chair,0,92,19052,216,13
+741,payee_rug,21,71,52311,921,6
+742,mitten_sofa,5,73,62136,864,7
+743,massive_tv-set,26,34,61102,831,18
+744,hake_vase,22,41,23670,421,9
+745,comedy_wallpaper,24,34,79912,782,18
+746,picturesque_bookcase,35,48,80013,473,25
+747,mother_bureau,2,33,9296,928,13
+748,world_computer,32,15,8794,459,17
+749,crate_couch,10,70,1738,36,24
+750,biology_desk,16,7,93789,157,25
+751,kick-off_office chair,13,26,79631,292,25
+752,victory_safe,24,14,32855,257,24
+753,odd_shelving,17,27,17483,86,4
+754,horde_speakers,2,19,86383,305,9
+755,plow_table lamp,9,28,67707,234,13
+756,piano_armchair,34,4,76612,763,20
+757,in-laws_bookshelf,23,24,54080,764,3
+758,foodstuffs_carpet,19,73,48762,847,0
+759,diploma_clock,2,37,87283,595,21
+760,ranch_chair,18,60,44536,180,24
+761,campus_coffee-table,13,35,19520,568,28
+762,navigate_cushion,21,15,68716,461,28
+763,teach_drinks cabinet,9,19,85017,221,22
+764,vegetarianism_electric fire,33,93,85879,472,6
+765,spleen_fireplace,17,24,45713,912,17
+766,clay_floor lamp,35,28,37470,445,22
+767,fencing_games console,32,73,75327,829,13
+768,horror_hammock,31,81,61490,446,30
+769,pickup_houseplants,4,66,80909,934,22
+770,anarchist_lamp,29,98,20385,584,30
+771,nightclub_lampshade,21,14,23046,206,13
+772,fatigue_piano,22,2,11667,623,0
+773,collectivisation_picture,6,51,35618,164,26
+774,behave_radiator,14,83,43372,868,18
+775,documentation_record player,5,75,43548,794,26
+776,musculature_rocking chair,3,95,75392,871,25
+777,die_rug,11,44,41702,53,5
+778,toque_sofa,29,13,326,361,17
+779,role_tv-set,25,32,9876,399,30
+780,raise_vase,29,45,47926,108,8
+781,cure_wallpaper,16,40,39174,764,24
+782,tribe_bookcase,34,25,15310,727,13
+783,transom_bureau,8,36,78447,517,17
+784,desert_computer,16,8,8296,622,17
+785,helicopter_couch,34,90,28494,250,5
+786,foamy_desk,14,44,21658,470,29
+787,residence_office chair,20,13,59799,22,6
+788,cummerbund_safe,4,92,22048,47,25
+789,swath_shelving,29,45,74846,902,30
+790,imperfect_speakers,21,58,24640,449,11
+791,prostacyclin_table lamp,20,18,44483,208,4
+792,laugh_armchair,1,92,86507,782,4
+793,golf_bookshelf,16,27,94633,589,6
+794,noodles_carpet,34,55,28233,607,9
+795,silo_clock,9,39,48578,515,26
+796,pantologist_chair,25,5,52374,75,16
+797,disturbed_coffee-table,14,10,91937,203,5
+798,standpoint_cushion,13,45,87561,224,12
+799,cleavage_drinks cabinet,30,94,48680,261,16
+800,perpetual_electric fire,32,17,32100,485,13
+801,vermicelli_fireplace,30,68,54076,499,9
+802,thread_floor lamp,22,52,41878,717,30
+803,connotation_games console,31,59,66237,184,16
+804,spruce_hammock,24,88,75851,294,4
+805,paragraph_houseplants,20,89,53022,662,3
+806,memory_lamp,18,86,71754,590,17
+807,arrival_lampshade,9,14,68642,111,17
+808,volcano_piano,18,76,35464,965,14
+809,neck_picture,21,19,1840,294,12
+810,tugboat_radiator,4,96,61411,573,20
+811,winter_record player,29,15,48148,355,17
+812,eavesdropper_rocking chair,21,71,89483,82,23
+813,yell_rug,24,9,55903,579,9
+814,postage_sofa,14,35,70039,59,5
+815,dispute_tv-set,2,61,45802,299,27
+816,airforce_vase,2,35,59368,445,24
+817,cria_wallpaper,15,41,8419,956,7
+818,brook_bookcase,30,73,14963,672,18
+819,favor_bureau,33,35,47720,50,20
+820,clavier_computer,1,84,77309,915,5
+821,season_couch,25,18,92576,958,19
+822,swell_desk,19,95,10208,326,25
+823,madly_office chair,17,30,87740,441,5
+824,blend_safe,27,26,15906,810,18
+825,corral_shelving,21,36,38651,276,23
+826,piquant_speakers,34,12,80935,703,23
+827,symbolize_table lamp,5,43,67323,22,30
+828,oregano_armchair,11,8,76871,162,4
+829,hyphenation_bookshelf,7,41,70332,440,7
+830,rush_carpet,3,8,59124,139,14
+831,tested_clock,24,68,62842,664,13
+832,macaroni_chair,30,39,31391,539,28
+833,productivity_coffee-table,30,0,61376,317,19
+834,complexity_cushion,6,37,84753,465,4
+835,blush_drinks cabinet,26,45,77597,575,23
+836,meme_electric fire,10,63,90354,595,8
+837,adapter_fireplace,3,8,88513,137,0
+838,evaluate_floor lamp,5,85,59330,862,11
+839,skean_games console,28,26,85884,529,10
+840,magenta_hammock,27,98,13326,568,3
+841,scanner_houseplants,31,63,1926,834,0
+842,floor_lamp,29,57,43380,768,7
+843,earnings_lampshade,26,92,12463,88,25
+844,aback_piano,3,18,73954,265,16
+845,caramel_picture,17,17,32300,323,8
+846,socialist_radiator,32,49,75530,225,27
+847,ceremony_record player,22,71,38718,541,14
+848,penny_rocking chair,20,40,59366,967,21
+849,charity_rug,16,72,46166,61,21
+850,think_sofa,3,34,99142,617,6
+851,meet_tv-set,31,73,10526,351,22
+852,comment_vase,32,41,72535,619,0
+853,trillion_wallpaper,18,40,63229,867,13
+854,honoree_bookcase,20,87,56388,127,10
+855,clarinet_bureau,28,85,32717,935,7
+856,knowledgeable_computer,15,69,34671,129,29
+857,originate_couch,18,49,70543,33,4
+858,fresh_desk,23,44,17211,13,22
+859,stance_office chair,31,40,54101,258,9
+860,sundae_safe,3,79,59343,111,16
+861,digestion_shelving,26,39,86043,274,16
+862,riot_speakers,0,46,78378,540,19
+863,multimedia_table lamp,7,67,132,998,26
+864,dazzling_armchair,22,93,56807,127,6
+865,division_bookshelf,5,8,62414,911,26
+866,zoo_carpet,31,37,98728,267,8
+867,reorganize_clock,5,43,39375,674,29
+868,crayfish_chair,1,60,83340,836,16
+869,ambassador_coffee-table,29,29,35686,557,20
+870,element_cushion,21,42,61387,665,25
+871,buzz_drinks cabinet,25,83,86840,77,9
+872,conduct_electric fire,13,36,41775,133,4
+873,thong_fireplace,30,81,54495,152,19
+874,stick_floor lamp,4,13,77210,780,9
+875,hydrolyse_games console,22,43,68529,290,0
+876,kaput_hammock,33,94,70577,926,9
+877,migrant_houseplants,27,38,73921,856,15
+878,roommate_lamp,4,38,44179,702,9
+879,wing_lampshade,20,21,61907,992,24
+880,shoehorn_piano,22,45,23754,556,10
+881,palate_picture,18,5,67364,755,18
+882,revenue_radiator,2,26,72767,122,28
+883,minnow_record player,2,72,32401,810,8
+884,withstand_rocking chair,0,16,5711,449,12
+885,mapping_rug,5,11,86871,899,3
+886,ascend_sofa,14,20,71645,834,6
+887,dive_tv-set,18,99,95600,685,0
+888,currant_vase,17,39,39211,256,4
+889,racial_wallpaper,15,35,9202,488,23
+890,electrocardiogram_bookcase,18,16,97900,606,10
+891,paramedic_bureau,4,3,70086,904,15
+892,tan_computer,19,22,41279,149,17
+893,sir_couch,16,14,74421,531,8
+894,severity_desk,16,18,7069,842,19
+895,audience_office chair,6,35,81782,409,10
+896,partner_safe,9,31,90188,823,4
+897,causal_shelving,7,35,96084,538,23
+898,bamboo_speakers,17,64,44585,378,9
+899,forget_table lamp,5,16,9391,245,3
+900,sculpture_armchair,20,7,78657,362,22
+901,fowl_bookshelf,21,48,89650,895,6
+902,mozzarella_carpet,33,61,26325,665,22
+903,invite_clock,20,59,74611,229,6
+904,encouraging_chair,7,72,84658,323,5
+905,toothbrush_coffee-table,17,16,99154,716,11
+906,heroine_cushion,33,54,48938,419,7
+907,specialist_drinks cabinet,12,84,72823,161,0
+908,bijou_electric fire,29,95,84550,256,18
+909,alloy_fireplace,26,49,74267,217,12
+910,damp_floor lamp,13,46,81899,916,30
+911,styling_games console,26,32,97691,32,20
+912,dwell_hammock,1,24,97663,600,16
+913,vengeful_houseplants,14,8,24458,384,24
+914,freeze_lamp,32,58,7078,7,25
+915,bower_lampshade,14,70,30896,245,1
+916,label_piano,25,72,10445,88,28
+917,chin_picture,26,73,85701,798,20
+918,cadet_radiator,12,28,78454,492,17
+919,genocide_record player,21,41,11289,671,10
+920,variable_rocking chair,17,72,29906,125,3
+921,labour_rug,21,64,38768,786,3
+922,intervenor_sofa,24,58,42874,940,28
+923,cue_tv-set,27,75,95950,436,3
+924,insight_vase,0,99,81368,829,21
+925,catastrophe_wallpaper,34,48,92938,565,29
+926,warren_bookcase,11,99,45595,337,16
+927,bet_bureau,17,53,62775,12,12
+928,jackal_computer,9,8,69694,900,1
+929,steward_couch,25,9,66651,132,6
+930,gear_desk,16,56,87364,588,26
+931,ratty_office chair,9,2,2915,201,23
+932,blue-eyed_safe,22,20,25206,773,16
+933,smooth_shelving,23,49,90617,562,7
+934,teenager_speakers,25,57,97519,654,2
+935,cactus_table lamp,28,21,70589,283,15
+936,observant_armchair,4,23,38725,594,30
+937,bedrock_bookshelf,12,94,21235,152,18
+938,delay_carpet,11,81,46209,261,27
+939,attenuation_clock,26,54,68833,138,1
+940,corporal_chair,2,9,61173,390,18
+941,smite_coffee-table,17,46,8148,49,6
+942,continue_cushion,0,87,74008,838,1
+943,phrasing_drinks cabinet,8,39,58962,688,30
+944,pricing_electric fire,2,43,20390,207,24
+945,stock_fireplace,34,4,23588,25,23
+946,author_floor lamp,31,39,51718,723,2
+947,screwdriver_games console,10,2,33833,167,22
+948,robe_hammock,20,67,75036,417,7
+949,cravat_houseplants,35,40,5844,695,12
+950,ectodermal_lamp,35,62,15381,481,5
+951,larder_lampshade,32,48,37738,908,11
+952,torso_piano,23,0,22313,717,5
+953,sleep_picture,19,92,90855,910,14
+954,explain_radiator,20,57,50826,356,4
+955,bury_record player,19,24,59757,264,22
+956,omelet_rocking chair,14,15,17925,79,10
+957,suffer_rug,19,57,57745,79,10
+958,anesthesiology_sofa,13,85,85080,977,27
+959,wax_tv-set,6,6,34156,500,20
+960,correspondence_vase,10,18,64508,214,27
+961,rambler_wallpaper,15,86,308,110,30
+962,spin_bookcase,3,83,40212,304,26
+963,obstacle_bureau,6,30,50232,421,29
+964,trophy_computer,9,10,82463,964,13
+965,sigh_couch,3,38,60284,199,12
+966,wish_desk,12,93,71948,484,18
+967,wooden_office chair,10,59,46291,449,7
+968,priesthood_safe,34,95,15235,222,16
+969,scripture_shelving,20,77,47469,615,26
+970,claw_speakers,35,50,84368,95,16
+971,outline_table lamp,3,33,72594,276,25
+972,presume_armchair,2,63,88821,578,25
+973,syndicate_bookshelf,1,2,75074,346,19
+974,dealing_carpet,22,55,2229,293,3
+975,anime_clock,12,99,68356,412,4
+976,elegant_chair,8,16,40928,681,29
+977,bosom_coffee-table,29,63,70963,747,5
+978,silica_cushion,34,73,90327,423,12
+979,president_drinks cabinet,11,3,60235,491,20
+980,stranger_electric fire,22,95,45888,626,10
+981,skull_fireplace,10,49,94643,368,1
+982,maintainer_floor lamp,26,44,99286,206,16
+983,clave_games console,32,28,54725,41,22
+984,liberty_hammock,24,38,54671,420,0
+985,lime_houseplants,23,30,718,687,12
+986,bawdy_lamp,20,80,86752,51,12
+987,acquire_lampshade,12,1,590,912,2
+988,stereo_piano,18,41,76933,996,3
+989,possession_picture,13,93,27935,281,0
+990,washcloth_radiator,32,10,66611,126,28
+991,posterior_record player,14,18,34761,170,11
+992,mama_rocking chair,10,94,27855,484,16
+993,quiet_rug,30,40,96237,641,3
+994,hybridisation_sofa,32,99,50627,165,0
+995,capacity_tv-set,28,62,99960,580,10
+996,warfare_vase,6,89,65159,603,29
+997,warn_wallpaper,17,40,55039,644,4
+998,ceaseless_bookcase,25,76,30501,659,16
+999,fanny-pack_bureau,20,35,73135,700,14
